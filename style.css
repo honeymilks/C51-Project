@@ -1,0 +1,11 @@
+.origami{
+    display:flex;
+    justify-content: space-between;
+    
+
+}
+.head{
+    padding: 15px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
